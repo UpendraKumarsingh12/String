@@ -35,6 +35,7 @@ public class WordController {
 	        if(a.size() > 1)
 	            return false;
 	        return true;
+	        
 	    }
 
 }

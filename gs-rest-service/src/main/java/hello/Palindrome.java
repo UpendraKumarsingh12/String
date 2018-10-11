@@ -12,7 +12,7 @@ public class Palindrome {
         this.anagramOfPalindrome = anagramOfPalindrome;
     }
 
-    public Palindrome() {
+    public Palindrome(){
     }
 
     public String getWord() {
